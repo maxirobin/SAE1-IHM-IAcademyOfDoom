@@ -1,4 +1,5 @@
 ﻿using IAcademyOfDoom.Logic.Skills;
+using System.Windows.Forms;
 
 namespace IAcademyOfDoom.Logic.Places
 {

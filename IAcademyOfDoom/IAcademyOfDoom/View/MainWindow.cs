@@ -115,9 +115,14 @@ namespace IAcademyOfDoom.View
             if (e.Button == MouseButtons.Right)
             {
                 Botling target = BotlingHere(e.Location);
+                RoomView targetRoom = RoomHere(e.Location);
                 if (target != null)
                 {
                     DisplayStateOf(target);
+                }
+                else if (targetRoom != null)
+                {
+                    //MessageBox.Show("Name : " + targetRoom.Room.Name+"\n"+ c.Placeables()[0].Skill.ToString());
                 }
             }
         }
@@ -348,9 +353,7 @@ namespace IAcademyOfDoom.View
             {
                 badges += " none";
             }
-            WriteLine("Botling " + name + ": " + hp);
-            WriteLine("  " + skills);
-            WriteLine("  " + badges);
+            MessageBox.Show("Botling " + name + ": " + hp + "\n" + skills + "\n" + badges);
         }
         /// <summary>
         /// Method called by the controller when the game is over.
@@ -423,6 +426,7 @@ namespace IAcademyOfDoom.View
                 }
                 if (add)
                 {
+                    //MessageBox.Show("Hello, world.");
                     rooms.Add(RoomView.CreateFromRoom(r));
                 }
             }

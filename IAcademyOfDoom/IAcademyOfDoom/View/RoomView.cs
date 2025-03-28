@@ -1,4 +1,5 @@
-﻿using IAcademyOfDoom.Logic.Places;
+﻿using IAcademyOfDoom.Logic;
+using IAcademyOfDoom.Logic.Places;
 using System.Drawing;
 
 namespace IAcademyOfDoom.View
@@ -20,8 +21,9 @@ namespace IAcademyOfDoom.View
         }
         public static RoomView CreateFromRoom(Room r)
         {
+            //game.rooms[-1].HP
             Point p = MainWindow.ConvertCoordinates(r.X, r.Y);
-            return new RoomView(p, r.Name, Settings.GetRoomColourFor(r.Type))
+            return new RoomView(p, r.Name+"\n"+"Bonjour : ", Settings.GetRoomColourFor(r.Type))
             {
                 Room = r
             };

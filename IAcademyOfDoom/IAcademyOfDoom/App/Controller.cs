@@ -125,7 +125,7 @@ namespace IAcademyOfDoom.App
         public void LessonResult(Botling botling, bool b)
         {
             window.WriteLine(botling.Name + " was lectured!" + (b ? " And succeeded!" : " ...And failed."));
-            window.DisplayStateOf(botling);
+            //window.DisplayStateOf(botling);
         }
         /// <summary>
         /// Method called from the game when a prof room is removed.

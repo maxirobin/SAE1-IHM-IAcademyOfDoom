@@ -2,6 +2,7 @@
 using IAcademyOfDoom.Logic.GameSettings;
 using IAcademyOfDoom.Logic.Mobiles;
 using IAcademyOfDoom.Logic.Skills;
+using System.Windows.Forms;
 
 namespace IAcademyOfDoom.Logic.Places
 {
