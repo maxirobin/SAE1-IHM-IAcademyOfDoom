@@ -119,7 +119,7 @@
             this.Controls.Add(this.outputListBox);
             this.DoubleBuffered = true;
             this.Name = "MainWindow";
-            this.Text = "Form1";
+            this.Text = "IAcademyOfDoom";
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.MainWindow_Paint);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.MainWindow_MouseDown);
             this.ResumeLayout(false);

@@ -128,9 +128,15 @@ namespace IAcademyOfDoom.Logic
         /// </summary>
         public void EndPreparations()
         {
-            currentPhase = Phase.Assault;
-            successes = failures = 0;
-            wave = new Wave(waveNumber);
+        
+            
+                currentPhase = Phase.Assault;
+                successes = failures = 0;
+                wave = new Wave(waveNumber);
+            
+                
+            
+            
         }
         /// <summary>
         /// Progresses in the assault phase.
@@ -213,7 +219,7 @@ namespace IAcademyOfDoom.Logic
         /// <returns>false: game over</returns>
         public bool NextWave()
         {
-            return false;
+            return waveNumber <= 6;
         }
         #endregion
         #region private methods

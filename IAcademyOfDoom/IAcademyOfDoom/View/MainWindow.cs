@@ -30,12 +30,12 @@ namespace IAcademyOfDoom.View
         {
             Difficulty? difficulty = null;
             string name = null;
-            /*DifficultySelect select = new DifficultySelect();
+            DifficultySelect select = new DifficultySelect();
             if (select.ShowDialog()==DialogResult.OK)
             {
                 name = select.InputName;
                 difficulty = select.Difficulty;
-            }*/
+            }
             InitializeComponent();
             c.Associate(this, name, difficulty);
             if (c.Name!=null)

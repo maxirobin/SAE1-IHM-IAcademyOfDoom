@@ -9,3 +9,25 @@ Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademy
 Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.exe
 Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.pdb
 Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.View.DifficultySelect.resources
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\bin\Debug\IAcademyOfDoom.exe.config
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\bin\Debug\IAcademyOfDoom.exe
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\bin\Debug\IAcademyOfDoom.pdb
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.csproj.AssemblyReference.cache
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.View.DifficultySelect.resources
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.View.MainWindow.resources
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.Properties.Resources.resources
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.csproj.GenerateResource.cache
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.csproj.CoreCompileInputs.cache
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.exe
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.pdb
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\bin\Debug\IAcademyOfDoom.exe.config
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\bin\Debug\IAcademyOfDoom.exe
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\bin\Debug\IAcademyOfDoom.pdb
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.csproj.AssemblyReference.cache
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.View.DifficultySelect.resources
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.View.MainWindow.resources
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.Properties.Resources.resources
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.csproj.GenerateResource.cache
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.csproj.CoreCompileInputs.cache
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.exe
+\\iut.bx\Etudiants\Home\mdavy\Documents\R2.02\SAE\sae1-ihm-iacademyofdoom\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.pdb

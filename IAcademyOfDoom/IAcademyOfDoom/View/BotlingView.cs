@@ -57,7 +57,8 @@ namespace IAcademyOfDoom.View
         /// <returns>true iff the point is within the graphic representation of the object</returns>
         public bool Contains(Point point)
         {
-            return Math.Abs(point.X-Center.X) <= Size.Width && Math.Abs(point.Y-Center.Y) < Size.Height;
+            return Math.Abs(point.X-Center.X) < Size.Width*0.50 && Math.Abs(point.Y-Center.Y) < Size.Height*0.50;
+            return Math.Sqrt(Math.Pow(point.X - Center.X, 2) + Math.Pow(point.Y - Center.Y, 2)) < Size.Width;
         }
     }
 }
