@@ -1,0 +1,11 @@
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\bin\Debug\IAcademyOfDoom.exe.config
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\bin\Debug\IAcademyOfDoom.exe
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\bin\Debug\IAcademyOfDoom.pdb
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.csproj.AssemblyReference.cache
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.View.MainWindow.resources
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.Properties.Resources.resources
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.csproj.GenerateResource.cache
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.csproj.CoreCompileInputs.cache
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.exe
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.pdb
+Z:\Documents\Visual Studio 2022\IAcademyOfDoom\IAcademyOfDoom\obj\Debug\IAcademyOfDoom.View.DifficultySelect.resources
